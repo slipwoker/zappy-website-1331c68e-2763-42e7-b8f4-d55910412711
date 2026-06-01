@@ -1,0 +1,66 @@
+# AICon — Generative Engine Optimization Map
+
+> AICon is an AI-focused conference event. The brand centers around artificial intelligence, technology, and innovation, bringing together professionals and enthusiasts in the AI space for a dedicated conference experience.
+
+---
+
+## Pages
+
+### בית
+https://aicon-1331c68e.zappy5.app
+הצטרפו לכנס הבינה המלאכותית המוביל של השנה. AICon מפגיש מומחים, חדשנות וטכנולוגיות פורצות דרך. גלו מגמות חמות, התחברו למובילי תעשייה והיו חלק מהמהפכה. כרטיסים במבצע לזמן מוגבל!
+
+## Legal & Policy
+
+### Privacy Policy
+https://aicon-1331c68e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://aicon-1331c68e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://aicon-1331c68e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://aicon-1331c68e.zappy5.app
+- Endpoint: https://aicon-1331c68e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About AICon
+AICon is an AI-focused conference event. The brand centers around artificial intelligence, technology, and innovation, bringing together professionals and enthusiasts in the AI space for a dedicated conference experience.
+
+## Target Audience
+- חוקרי AI
+- יזמי סטארטאפים טכנולוגיים
+- מקצועני IT
+
+## Industry
+Technology Conference
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://aicon-1331c68e.zappy5.app/sitemap.xml
+- Robots: https://aicon-1331c68e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://aicon-1331c68e.zappy5.app/llms-full.txt
